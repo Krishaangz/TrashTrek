@@ -177,5 +177,6 @@ TrashTrek transforms everyday environmental cleanup into a dynamic, interactive 
 
 TrashTrek is an innovative, engaging, and socially impactful mobile app that empowers users to contribute to a cleaner environment through gamified trash collection and interactive challenges. By combining advanced AI detection, dynamic analytics, and rich educational content, TrashTrek transforms everyday actions into meaningful environmental change. This comprehensive specification serves as a blueprint for developers to implement a high-quality, fully functional app that not only entertains but also drives real-world impact.
 
+Here's the prototype trashtrek website: https://trash-trek.netlify.app
 Happy coding, and let’s work together for a cleaner, greener future with TrashTrek!
 
